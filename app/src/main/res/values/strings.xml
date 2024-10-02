@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">G7S21MDIM_P1T1_SAVL</string>
+    <string name="bienvenida">Hola, bienvenido</string>
+    <string name="pedir">Por favor, ingresa tu edad</string>
+    <string name="ingresa">Ingresalo aqui</string>
+    <string name="verifica">Ver edad</string>
+    <string name="inicio">Bienvenido a la aplicacion de edades</string>
+    <string name="mayor">Genial! eres mayor de edad</string>
+    <string name="menor">Awww! aun eres peque :3</string>
+</resources>
